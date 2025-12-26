@@ -4,9 +4,12 @@
 
 ## Problems
 
-| ID | Problem Name | Solution |
+| S.No | Problem Name | Solution |
 | ---: | --- | --- |
-| 1 | [Young Physicist](https://codeforces.com/problemset/problem/69/A) | [Python](./python/young_physicist_01.py) |
-| 2 | [Square?](https://codeforces.com/contest/2167/problem/A) | [C++](./cpp/square_02.cpp) |
+| 1 | [Square?](https://codeforces.com/contest/2167/problem/A) | [C++](./cpp/square_02.cpp) |
+| 2 | [ASCII Art Contest](https://codeforces.com/contest/2172/problem/A) |  |
+| 3 | [Minimize!](https://codeforces.com/contest/2009/problem/A) |  |
+| 4 | [Watermelon](https://codeforces.com/contest/4/problem/A) |  |
+| 5 | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) |  |
 
 Contributions are welcome - feel free to open a PR to add or update solutions.
