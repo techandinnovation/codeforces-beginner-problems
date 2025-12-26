@@ -1,0 +1,4 @@
+**/exes/
+*.exes
+a.out
+*.out
