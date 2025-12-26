@@ -11,5 +11,7 @@
 | 3 | [Minimize!](https://codeforces.com/contest/2009/problem/A) |  |
 | 4 | [Watermelon](https://codeforces.com/contest/4/problem/A) |  |
 | 5 | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) |  |
+| 6 | [Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A) |  |
+| 7 | [Beautiful Year](https://codeforces.com/contest/271/problem/A) |  |
 
 Contributions are welcome - feel free to open a PR to add or update solutions.
